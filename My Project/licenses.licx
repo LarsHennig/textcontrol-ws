@@ -1,0 +1,4 @@
+TXTextControl.Proofing.TXSpellChecker, TXSpell.Windows.Forms, Version=11.0.1000.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638
+TXTextControl.ServerTextControl, TXTextControl.Server, Version=34.0.1900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638
+TXTextControl.Windows.Forms.Ribbon.Ribbon, TXTextControl.Windows.Forms, Version=34.0.1900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638
+TXTextControl.TextControl, TXTextControl.Windows.Forms, Version=34.0.1900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638
